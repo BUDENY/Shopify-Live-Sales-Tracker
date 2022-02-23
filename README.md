@@ -68,6 +68,7 @@ If you have any suggestions, please open an issue or make a pull request.
 - Automatically delete discord webhooks & channels of shops which don't get tracked anymore
 - Automatically detect a whole cart and put everything into one embed
 - Last 24 hours stats
+- English translation
 
 # Contact:
 
