@@ -30,7 +30,7 @@ If you have any suggestions, please open an issue or make a pull request.
 
 - [x] Detects updates in config automatically
 - [x] Clean console logs
-      ![](https://cdn.discordapp.com/attachments/833072466548359250/946052716906569768/unknown.png)
+![](https://cdn.discordapp.com/attachments/833072466548359250/946052716906569768/unknown.png)
 - [x] 99.9% precise
 - [x] Collects data about all products, variants and the whole shop and saves it in memory
 - [x] Tells you the sales volume of a product, and its variant itself
@@ -68,7 +68,6 @@ If you have any suggestions, please open an issue or make a pull request.
 - Automatically delete discord webhooks & channels of shops which don't get tracked anymore
 - Automatically detect a whole cart and put everything into one embed
 - Last 24 hours stats
-- English translation
 
 # Contact:
 
