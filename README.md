@@ -69,12 +69,6 @@ If you have any suggestions, please open an issue or make a pull request.
 - Automatically detect a whole cart and put everything into one embed
 - Last 24 hours stats
 
-# Contact:
-
-- Discord: doener#6969
-- Twitter: doener2323
-- If I don't reply on these platforms, you can just open an issue here.
-
 ## License:
 
 By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.
